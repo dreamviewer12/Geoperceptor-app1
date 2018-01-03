@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211248906059",
+    "project_id": "firebase-minor5"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211248906059:android:7625a785cedd20b3",
+        "android_client_info": {
+          "package_name": "trainage.minor_sem_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211248906059-gc8flm1e89oornokr9spkdrfnc4isb2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trainage.minor_sem_5",
+            "certificate_hash": "b4365da4c5949296f7baf3507332a115e9a7fd45"
+          }
+        },
+        {
+          "client_id": "211248906059-l739mjkl22a0ch8ao7u4tocp5edegn84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXh3-msLTKgab3dxQXqMTJI4f2RuNeems"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

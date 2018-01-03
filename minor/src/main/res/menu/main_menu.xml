@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   <!-- <item android:id="@+id/geofence" android:title="Create Geofence" app:showAsAction="never" />
+    <item android:id="@+id/clear" android:title="Clear Geofence" app:showAsAction="never" />-->
+    <group android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/logout"
+            android:orderInCategory="1"
+            app:showAsAction="always"
+            android:title="Logout"/>
+
+
+    </group>
+</menu>
